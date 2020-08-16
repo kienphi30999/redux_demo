@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+THIS IS TO-DO APP WITH MOCKAPI. YOU CAN CREATE YOUR OWN API WITH MOCKAPI AND REPLACE CURRENT URL TO YOUR NEW URL IN CALLING API FUNCTION
 ## Available Scripts
 
 In the project directory, you can run:
