@@ -39,7 +39,7 @@ const reducers = (state = initState, action) => {
             console.log("UPDATE users: ", state.users);
             return{
                 ...state,
-                users: state.users
+                users: [...state.users]
             };
         default:
             return state;
